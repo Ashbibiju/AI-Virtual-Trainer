@@ -50,6 +50,6 @@ An intelligent personal fitness trainer built using **Python**, **OpenCV**, **Me
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ai-virtual-trainer.git
+   git clone https://github.com/Ashbibiju/ai-virtual-trainer.git
    cd ai-virtual-trainer
    
